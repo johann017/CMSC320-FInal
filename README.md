@@ -1,5 +1,7 @@
 # CMSC320-Final
 
+### Collaborated with: Connor O'Meara and Jasmine Parekh
+
 To view our project navigate [here](https://jasminepparekh.github.io/CMSC320-Final/):
 
 Data Kaggle Link: 
