@@ -2,7 +2,7 @@
 
 ### Collaborated with: Connor O'Meara and Jasmine Parekh
 
-To view our project navigate [here](https://jasminepparekh.github.io/CMSC320-Final/):
+To view our project navigate [here](https://johann017.github.io/CMSC320-Final/):
 
 Data Kaggle Link: 
 https://www.kaggle.com/PromptCloudHQ/imdb-data
