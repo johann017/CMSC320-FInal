@@ -1,4 +1,4 @@
-# CMSC320-Final
+# Predicting US Movie Revenue 
 
 ### Collaborated with: Connor O'Meara and Jasmine Parekh
 
